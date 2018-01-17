@@ -10,7 +10,7 @@ background:#FF0033;
 img{
 width:50px;
 heigth:50px;
-border-radius:50%;
+border-radius:5PX;
 margin-top:220px;
 padding:3px 30px;
 -webkit-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
@@ -42,7 +42,7 @@ img{
 
 
 <body>
-<img src="a.png ">
+<img src="A.png ">
 <img src="B.png">
 <img src="CS.png">
 <img src="D.png">
@@ -68,10 +68,10 @@ img{
 <img src="W.png">
 <img src="Y.png">
 <img src="Z.png">
-<hr width =100%>
+<HR width =100%>
 
-<h1>lenguaje de señas colombiana LSC</h1> 
-<hr width =100% >
+<H1>lenguaje de señas colombiana LSC</H1> 
+<HR width =100% >
 
 </body>
 </html> 
